@@ -1,0 +1,18 @@
+domain: tkddls112.github.io
+url: https://github.com/tkddls112/tkddls112.github.io.git
+
+title: Security Study
+email: yujhj24@gmail.com
+author: JIHWAN
+description: 저는 현재 기초적인 보안 공부를 시작하고 있습니다.
+
+lang: en
+
+timezone: Asia/Seoul
+
+color: "#13ccf9"
+#   shortname: example-com
+# 
+
+plugins:
+  - jekyll-seo-tag
